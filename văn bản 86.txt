@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>KZ HUB | Ultimate Battlegrounds</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+*{box-sizing:border-box}
+body{
+margin:0;
+background:radial-gradient(1200px 600px at top,#0b122b,#05070f);
+font-family:Inter,system-ui,-apple-system;
+color:#e5e7eb
+}
+.container{
+max-width:1200px;
+margin:auto;
+padding:60px 20px
+}
+.header{
+text-align:center;
+margin-bottom:60px
+}
+.header h1{
+font-size:44px;
+letter-spacing:1px;
+margin:0;
+background:linear-gradient(90deg,#fde047,#f59e0b);
+-webkit-background-clip:text;
+color:transparent
+}
+.header p{
+color:#9ca3af;
+margin-top:12px;
+font-size:15px
+}
+.grid{
+display:grid;
+grid-template-columns:repeat(auto-fit,minmax(280px,1fr));
+gap:24px
+}
+.card{
+background:linear-gradient(180deg,#0b1024,#070b1a);
+border-radius:20px;
+padding:24px;
+box-shadow:
+0 0 0 1px rgba(253,224,71,.15),
+0 40px 120px rgba(0,0,0,.85)
+}
+.card h2{
+margin:0 0 14px;
+font-size:18px;
+color:#fde047
+}
+.card ul{
+list-style:none;
+padding:0;
+margin:0
+}
+.card li{
+padding:6px 0;
+font-size:14px;
+color:#d1d5db
+}
+.card li span{
+color:#9ca3af;
+font-size:13px
+}
+.footer{
+margin-top:70px;
+text-align:center;
+color:#9ca3af;
+font-size:14px
+}
+.badge{
+display:inline-block;
+margin-top:16px;
+padding:10px 18px;
+border-radius:999px;
+background:linear-gradient(90deg,#fde047,#f59e0b);
+color:#000;
+font-weight:600;
+font-size:14px
+}
+</style>
+</head>
+
+<body>
+<div class="container">
+
+<div class="header">
+<h1>KZ HUB</h1>
+<p>Ultimate Battlegrounds • Premium Combat Framework</p>
+<div class="badge">Buy Premium Version via Discord</div>
+</div>
+
+<div class="grid">
+
+<div class="card">
+<h2>Main • Kill Aura</h2>
+<ul>
+<li>Kill Aura V1</li>
+<li>Kill Aura V2</li>
+<li>Kill Farming</li>
+<li>Auto Claim Emote</li>
+<li>Kill Aura Distance <span>(0–100)</span></li>
+<li>Ignore Friends</li>
+<li>Kill Aura Show</li>
+<li>Kill Aura V3</li>
+<li>V3 Range <span>(1–100)</span></li>
+<li>V3 Delay <span>(0.01–0.2)</span></li>
+<li>Target Selection <span>(Faster / Slower)</span></li>
+</ul>
+</div>
+
+<div class="card">
+<h2>Hitbox Control</h2>
+<ul>
+<li>Hitbox Expander</li>
+<li>Hitbox X/Y/Z <span>(0–120)</span></li>
+<li>Hitbox Legit</li>
+<li>Enhancer Multiplier <span>(0–10)</span></li>
+<li>Hitbox Method</li>
+<li>Hitbox Basic</li>
+<li>Basic Hitbox Size <span>(0–50)</span></li>
+</ul>
+</div>
+
+<div class="card">
+<h2>Legit Combat</h2>
+<ul>
+<li>Dash Anti Knockback</li>
+<li>Auto Block Method</li>
+<li>Block Range <span>(0–50)</span></li>
+<li>Spam Wall Combo</li>
+<li>Wall Combo Speed <span>(0.01–0.5)</span></li>
+</ul>
+</div>
+
+<div class="card">
+<h2>Exploit • God Mode</h2>
+<ul>
+<li>God Mode V1</li>
+<li>God Mode V2</li>
+<li>God Mode V3</li>
+<li>Target Delay <span>(0.01–0.1)</span></li>
+<li>Self Delay <span>(0.01–0.1)</span></li>
+</ul>
+</div>
+
+<div class="card">
+<h2>Anti / Lag Control</h2>
+<ul>
+<li>Anti God Mode</li>
+<li>Anti God Distance <span>(0–20)</span></li>
+<li>Dash Interval <span>(0.1–2)</span></li>
+<li>Lag Server Wallcombo</li>
+<li>Lag Server Kill Emote</li>
+<li>Lag Server Rank</li>
+<li>Anti Lag Modules</li>
+</ul>
+</div>
+
+<div class="card">
+<h2>Exploit Basic</h2>
+<ul>
+<li>Fake Username</li>
+<li>Fake Ping</li>
+<li>Infinity Ultimate</li>
+<li>No Stun</li>
+<li>No Slowdown</li>
+<li>Invisible V1 / V2</li>
+<li>Anti Counter</li>
+<li>TP Walk <span>(0–250)</span></li>
+<li>Dash Speed <span>(0–1000)</span></li>
+<li>Jump Power <span>(0–1000)</span></li>
+<li>Melee Speed <span>(0–1000)</span></li>
+</ul>
+</div>
+
+<div class="card">
+<h2>Other Exploit</h2>
+<ul>
+<li>Kill Emote Spam</li>
+<li>Spam Speed <span>(0.1–1)</span></li>
+<li>Character Switcher</li>
+<li>Gon / Nanami / Mob</li>
+<li>Ability Spam Module</li>
+<li>Spam Speed <span>(0.01–1)</span></li>
+</ul>
+</div>
+
+<div class="card">
+<h2>Visual & Cosmetic</h2>
+<ul>
+<li>Ultimate VFX Color</li>
+<li>Rainbow Mode</li>
+<li>Preview & Refresh</li>
+<li>Accessories</li>
+<li>Auras</li>
+<li>Capes</li>
+<li>Apply All Cosmetics</li>
+</ul>
+</div>
+
+<div class="card">
+<h2>Target & Control</h2>
+<ul>
+<li>Select Target</li>
+<li>Behind Distance <span>(1–20)</span></li>
+<li>Circle Radius <span>(1–20)</span></li>
+<li>Circle Speed <span>(1–30)</span></li>
+<li>Look At Player</li>
+<li>Reset All</li>
+</ul>
+</div>
+
+<div class="card">
+<h2>UI Settings</h2>
+<ul>
+<li>Keybind Menu</li>
+<li>Custom Cursor</li>
+<li>Notification Side</li>
+<li>DPI Scale <span>(50–200%)</span></li>
+<li>Menu Bind</li>
+<li>Configuration System</li>
+</ul>
+</div>
+
+</div>
+
+<div class="footer">
+Protected by KZ Hub • Discord: Kfc_3012 · justarthur1337
+</div>
+
+</div>
+</body>
+</html>
